@@ -1,2 +1,3 @@
-console.log("Hello");
+class Block {
+}
 //# sourceMappingURL=index.js.map
